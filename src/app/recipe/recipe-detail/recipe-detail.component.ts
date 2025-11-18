@@ -10,5 +10,5 @@ export class RecipeDetailComponent implements OnInit {
   @Input() recipe: any;
 
   constructor() {}
-  ngOnInit(): void {}
+  ngOnInit(): void {} 
 }
